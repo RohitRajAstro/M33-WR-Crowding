@@ -12,7 +12,7 @@ Submitted to The Astrophysical Journal
 ## Overview
 
 This repository contains the data, catalog, and 
-analysis code accompanying Raj et al. (2025), 
+analysis code accompanying Raj et al. (2026), 
 which presents:
 
 - A photometric crowding analysis of **123 WR stars** 
