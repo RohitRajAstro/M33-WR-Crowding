@@ -1,6 +1,6 @@
 # M33 Wolf-Rayet Stars: Crowding Analysis and Wind Benchmarks
 
-**Raj et al. (2025)** — *Wolf-Rayet Stars in M33: 
+**Raj et al. (2026)** — *Wolf-Rayet Stars in M33: 
 The Impact of Stellar Crowding on Spectral 
 Classification and Mass-Loss Diagnostics*  
 Submitted to The Astrophysical Journal
